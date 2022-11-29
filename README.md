@@ -6,4 +6,5 @@ I currenly work as a Consultant for the Department of Defense, where I develop a
 
 Here are some examples I have been working on for class:
 -[Time Series Decomposition](/timeseries/TimeSeries.html)
+
 -[Time Series Decomposition Python File](/timeseries/TimeSeries.ipynb)
