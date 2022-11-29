@@ -9,4 +9,8 @@ Here are some examples I have been working on for class:
 
 -[Time Series Decomposition](/timeseries/TimeSeries.html)
 
--[Time Series Decomposition Python File](/timeseries/TimeSeries.ipynb)
+-[Time Series Decomposition (Jupyter File)](/timeseries/TimeSeries.ipynb)
+
+-[Graphing Assignment 1](/timeseries/BasicGraphAssignment.html)
+
+-[Graphing Assignment 2](/timeseries/M3Graphing.html)
