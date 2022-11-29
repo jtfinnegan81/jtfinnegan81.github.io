@@ -1,6 +1,7 @@
-# jtfinnegan81.github.io
-Hello All! My name is Jake Finnegan, and I am a Data Scientist, currently enrolled in the Master's of Buisness Analytics Program at William & Mary. 
-I currenly work as a Consultant for the Department of Defense, where I develop Dashboards and Find Analytical Insights for my clients.
+# Jake Finnegan - Data Scientist 
+Hello All! My name is Jake Finnegan, and i'm a Data Scientist, enrolled in the Master's of Buisness Analytics Program at William & Mary. 
+I currenly work as a Consultant for the Department of Defense, where I develop and find analytical insights through data.
 
-This is something I have been working on for class:
+
+Here are some examples I have been working on for class:
 -[Time Series Decomposition](/timeSeries/index.md)
