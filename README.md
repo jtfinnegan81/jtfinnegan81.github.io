@@ -5,4 +5,5 @@ I currenly work as a Consultant for the Department of Defense, where I develop a
 ![My Picture](/IMG_6274.JPG)
 
 Here are some examples I have been working on for class:
--[Time Series Decomposition](/timeseries/index.md)
+-[Time Series Decomposition](/timeseries/TimeSeries.html)
+-[Time Series Decomposition Python File](/timeseries/TimeSeries.ipynb)
