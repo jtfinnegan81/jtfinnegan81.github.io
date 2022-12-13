@@ -5,6 +5,9 @@ I currently work as a Consultant for the Department of Defense, where I develop 
 
 ![My Picture](/IMG_6274.JPG)
 
+- 📫 How to reach me jtfinnegan@wm.edu
+- 🌱 I’m currently learning Machine Learning Fundamentals
+
 Here are some examples I have been working on for class:
 
 -[Time Series Decomposition](/timeseries/TimeSeries.html)
