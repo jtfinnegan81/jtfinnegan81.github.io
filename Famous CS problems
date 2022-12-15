@@ -1,0 +1,11 @@
+Things to practice
+Some examples of famous computer science problems include the following:
+
+The traveling salesmanperson problem: This problem involves finding the shortest possible route that visits a given set of cities and returns to the starting city.
+The knapsack problem: This problem involves trying to maximize the value of items placed in a knapsack, subject to the constraint that the total weight of the items does not exceed the capacity of the knapsack.
+The bin packing problem: This problem involves trying to pack a given set of items into the smallest number of containers or bins, subject to certain constraints.
+The graph coloring problem: This problem involves coloring the vertices of a graph such that no two adjacent vertices have the same color, using the smallest number of colors possible.
+The shortest path problem: This problem involves finding the shortest path between two vertices in a graph.
+The satisfiability problem (SAT): This problem involves determining whether a given Boolean formula can be satisfied by assigning values to its variables.
+The subset sum problem: This problem involves determining whether there exists a subset of a given set of numbers that adds up to a given target sum.
+The prime factorization problem: This problem involves finding the prime factors of a given integer.
